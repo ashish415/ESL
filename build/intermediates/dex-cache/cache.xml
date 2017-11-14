@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\user\AndroidStudioProjects\ESL\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ESL\app\build\intermediates\pre-dexed\debug\classes-015f1e8cd66d335b73df0152ca229b7a6017943d.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\AndroidStudioProjects\ESL\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ESL\app\build\intermediates\pre-dexed\debug\classes-4e946e8eeba79afe2d37160c2ec4e761f673288a.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\AndroidStudioProjects\ESL\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ESL\app\build\intermediates\pre-dexed\debug\classes-b86d72a9a77dac1e86e50f127c148496d227d2c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.2.4\7abd1ecef320da6a7679b137083151401fe8bf43\MPAndroidChart-v2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7abd1ecef320da6a7679b137083151401fe8bf43">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ESL\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v2.2.4-282933b464ac538b1e6ad2afde066aa1835410d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\AndroidStudioProjects\ESL\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ESL\app\build\intermediates\pre-dexed\debug\classes-fb29b67d62390582869e362c20d3a7ca5e4f8b6d.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\AndroidStudioProjects\ESL\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ESL\app\build\intermediates\pre-dexed\debug\classes-97fb5c240d77c944c571bd4e96c6ebcb227bd985.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\AndroidStudioProjects\ESL\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ESL\app\build\intermediates\pre-dexed\debug\classes-0c4d5adaeee4e41c18a7dfed612be5818569d7f3.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\AndroidStudioProjects\ESL\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ESL\app\build\intermediates\pre-dexed\debug\classes-d3a0d2cf2d64e90124523d4e7504673b68b26f73.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\AndroidStudioProjects\ESL\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ESL\app\build\intermediates\pre-dexed\debug\classes-962f335f3a272a22c6b15ecf8fef96b3e447dcd4.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ESL\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1-8806c4335ed46fab24526672129bd667b9363dcb.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\AndroidStudioProjects\ESL\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ESL\app\build\intermediates\pre-dexed\debug\classes-2c10e6729acc7a4edf182befc98b80c1f44a78b9.jar" />
+    </item>
+
+</items>

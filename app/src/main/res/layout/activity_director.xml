@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    >
+    <ImageView android:src="@drawable/icon" android:layout_height="wrap_content"
+        android:layout_width="fill_parent" android:id="@+id/mobiIcon"
+        />
+
+    <Space android:layout_width="match_parent" android:layout_height="50dp" />
+
+    <Button android:text="@string/newtutor" android:id="@+id/newtutor" android:layout_width="wrap_content" android:layout_gravity="center_horizontal" android:layout_height="wrap_content"/>
+
+    <Space android:layout_width="match_parent" android:layout_height="20dp" />
+
+    <Button android:text="@string/newstudent" android:id="@+id/newstudent"  android:layout_width="wrap_content" android:layout_gravity="center_horizontal"  android:layout_height="wrap_content"/>
+    <Space android:layout_width="match_parent" android:layout_height="20dp" />
+
+    <Button android:text="@string/viewlabreport" android:id="@+id/viewlabreport" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_gravity="center_horizontal" />
+    <Space android:layout_width="match_parent" android:layout_height="20dp" />
+
+    <Button android:text="@string/viewtutorreport" android:id="@+id/viewtutorreport" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_gravity="center_horizontal" />
+    <Space android:layout_width="match_parent" android:layout_height="20dp" />
+
+  <!--  <Button android:text="@string/graph" android:id="@+id/graph" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_gravity="center_horizontal" />
+    <Space android:layout_width="match_parent" android:layout_height="20dp" />   -->
+
+    <Button android:text="@string/logout" android:id="@+id/logout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_gravity="center_horizontal" />
+
+
+
+</LinearLayout>
